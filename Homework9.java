@@ -15,7 +15,6 @@ public class Homework9{
 		int i;
 		int j = 0;;
 		int flag;
-		int min = 1000;
 		int temp0;
 		int temp1;
 		j = 0;
